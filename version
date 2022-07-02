@@ -1,0 +1,10 @@
+{
+  "homepage": "https://conskrypt.com",
+  "promos": {
+    "1.18.2-latest": "1.18.2-1.0-SNAPSHOT",
+    "1.18.2-recommended": "1.18.2-1.0-SNAPSHOT"
+  },
+  "1.18.2": {
+    "1.18.2-1.0-SNAPSHOT": "1.18.2 initial version"
+  }
+}
